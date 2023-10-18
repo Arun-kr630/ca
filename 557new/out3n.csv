@@ -1,0 +1,3 @@
+,branch-misses,cache-misses,L1-dcache-load-misses,L1-icache-load-misses,dTLB-load-misses,dTLB-store-misses,iTLB-load-misses,LLC-load-misses,LLC-store-misses,branch-load-misses,cycles,instructions
+0,44133,5559085,6426332,417747,9537,1057484,318,42522,5264119,33521,342400707,362961591
+1,3758796,2737919,3749611,442868,3592,428147,1027,25648,1903732,4444864,344274261,408499835
